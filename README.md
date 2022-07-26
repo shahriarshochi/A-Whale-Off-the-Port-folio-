@@ -24,7 +24,7 @@ Finally, I have included the correlation analysis to determine which stocks are 
 
 ## The Goal of This Project: 
 
-The goal of this project is to be able to help determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios. It also gives us an opportunity to take a look at how to build our own portfolios and compare its performance so that we can not only built our portfolio from the scratch but also understand how logical this investment is going to be.
+The goal of this project is to be able to help determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios. It also gives us an opportunity to take a look at how to build our own portfolios and compare its performance so that we can not only build our portfolio from the scratch but also understand how logical this investment is going to be.
 
 
 
